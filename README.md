@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+# blog
+
+Add your own Database string in the .env file. You can use free database from www.elephantsql.com
